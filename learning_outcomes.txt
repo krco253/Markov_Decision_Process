@@ -1,0 +1,21 @@
+## Learning Outcomes
+- I noticed that this program was yet another instance where the idea of iterating a 
+computation until there is a convergence in values was applied in order to 
+define decisions. It seems that iterative approaches are particularly useful in AI.
+- This program not only taught me an understanding of Markovian transistion models 
+for modeling problems in the future, but also a method to actually produce possible
+solutions for these models. So, this program equipped me with yet another way to model
+problems and a method for solving them. I plan on applying this model and decision process
+to a different real world problem in a personal project over Christmas break.
+- I initially had utility values stored in an array of integers instead of double floats.
+What a difference it made!
+
+## Reflection on CS 463
+It's been quite the semester in this class; CS 463 is definitely the most challenging
+course I've taken so far. One of my favorite things about the class was the opportunity
+that the midterm and final projects for the class presented to delve into what kind of
+questions the field of Artificial Intelligence is diving into now, in the present. 
+This course frustrated and challenged me, but, at the end of the day, it is because of
+those frustrations and challenges that I thoroughly enjoyed this course and wish that 
+I could take a whole semester solely devoted to this course. Thanks for the learning
+experience!
